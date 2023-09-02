@@ -74,6 +74,10 @@ LTSX 使用模块化进行开发，每一个模块都可以独立运行，多个
 - Server Util (LTSX_SRVUTIL): 服务器组建，提供玩家好友系统、经济系统等等
 - AntiCheat (LTSX_ANTICHEAT): 基于 BotWMCS 的海拉尔盾反作弊系统开发的针对联机游戏的反作弊模块
 
+LTSX 将采用 *NeoForge[1]* 1.20 进行开发
+
+[1]: NeoForge 与 Forge 相比，前者的社区支持率更高。
+
 ## LTSX 正在筹集团队以及关键人物
 
 目前，LTSX 处于早期开发阶段，正在以 Sam_Chai 为中心形成团队共同开发 LTSX。如果任何 Minecraft 开发者有对 LTSX 计划感到兴趣的，欢迎提交 issue 发布申请成为团队成员，我们将共同完成这一伟大的项目。
