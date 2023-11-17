@@ -1,0 +1,12 @@
+This is a announcement test.
+And split test.
+
+Why not try some blank and space?
+
+===========The Format Test===========
+- Today update: 2023/11/17
+- Update content:
+1. Fix #43
+2. Ban `fuck_op` player
+3. Tweak create ponder component
+===========Finish  Upgrade===========
