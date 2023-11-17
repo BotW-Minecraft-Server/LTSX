@@ -1,12 +1,8 @@
-This is a announcement test.
-And split test.
-
-Why not try some blank and space?
-
-===========The Format Test===========
-- Today update: 2023/11/17
-- Update content:
-1. Fix #43
-2. Ban `fuck_op` player
-3. Tweak create ponder component
-===========Finish  Upgrade===========
+§e今日公告 §72023/11/17: §r
+- 发布 LTSX 1.0a 版本
+- 添加“美食家”机械动力烹饪扩展
+- 修复公告栏加载卡顿的情况
+- 现在通过先进的同步系统，服务器内公告和QQ群公告已经同步
+- 修改原版 ESC 菜单（仅限于 LTSX 服务器可用）
+- 禁用单人模式，添加“蹦极”菜单来进入建造服务器
+***此外还修复了一些BUG和漏洞，游戏愉快***
